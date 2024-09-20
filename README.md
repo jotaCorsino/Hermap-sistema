@@ -19,9 +19,30 @@
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React Native (ou qualquer outro framework de sua escolha)
-- **Backend**: Node.js (ou outra tecnologia para API)
-- **Banco de dados**: MongoDB / PostgreSQL
-- **Geolocalização**: Google Maps API ou OpenStreetMap
-- **Pagamentos**: Integração com plataformas de pagamento (e.g., Stripe, PayPal, PagSeguro)
+### Frontend
 
+- **Website**: Desenvolvido com **React.js** para uma interface rápida, interativa e responsiva.
+- **Aplicativo Mobile (Android e iOS)**: Desenvolvido com **React Native**, permitindo a criação de aplicativos nativos para Android e, posteriormente, iOS a partir de uma base de código única.
+
+### Backend
+
+- **Node.js** com **Express** para a criação da API do servidor, garantindo escalabilidade e eficiência.
+- **MongoDB** ou **PostgreSQL** para gerenciamento de dados, oferecendo flexibilidade e performance, dependendo da necessidade do projeto.
+
+### Geolocalização
+
+- **Google Maps API** ou **OpenStreetMap** para o monitoramento de localização em tempo real e cálculo de rotas.
+
+### Pagamentos
+
+- Integração com plataformas de pagamento como **Stripe**, **PayPal**, ou **PagSeguro** para emissão de boletos e gestão de pagamentos.
+
+### Serviços de Hospedagem
+
+- **AWS** ou **Google Cloud** para a infraestrutura e hospedagem de backend, com suporte a escalabilidade e integração contínua.
+- **Firebase** para notificações push e autenticação de usuários (login).
+
+### Testes
+
+- **Jest** para testes unitários no frontend e backend.
+- **Detox** ou **Appium** para testes end-to-end dos aplicativos móveis.
