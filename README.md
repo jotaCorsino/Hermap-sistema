@@ -17,11 +17,6 @@
 - **Avaliação de motoristas e empresas**: Sistema de feedback dos usuários para garantir qualidade no serviço.
 - **Serviços diferenciados**: Cadastro de serviços personalizados conforme as necessidades dos passageiros e empresas.
 
-## Funcionalidades Futuras
-
-- **Avaliação de motoristas e empresas**: Sistema de feedback dos usuários para garantir qualidade no serviço.
-- **Serviços diferenciados**: Cadastro de serviços personalizados conforme as necessidades dos passageiros e empresas.
-
 ## Tecnologias Utilizadas
 
 - **Frontend Web**: [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) para acesso via navegador em computadores.
