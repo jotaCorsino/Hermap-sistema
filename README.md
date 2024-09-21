@@ -17,32 +17,19 @@
 - **Avaliação de motoristas e empresas**: Sistema de feedback dos usuários para garantir qualidade no serviço.
 - **Serviços diferenciados**: Cadastro de serviços personalizados conforme as necessidades dos passageiros e empresas.
 
+## Funcionalidades Futuras
+
+- **Avaliação de motoristas e empresas**: Sistema de feedback dos usuários para garantir qualidade no serviço.
+- **Serviços diferenciados**: Cadastro de serviços personalizados conforme as necessidades dos passageiros e empresas.
+
 ## Tecnologias Utilizadas
 
-### Frontend
+- **Frontend Web**: [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) para acesso via navegador em computadores.
+- **Frontend Mobile**: [Xamarin](https://dotnet.microsoft.com/apps/xamarin) / [.NET MAUI](https://dotnet.microsoft.com/apps/maui) para o desenvolvimento dos aplicativos Android e iOS.
+- **Backend**: [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet) para a criação da API que gerencia rotas, passageiros e transações financeiras.
+- **Banco de dados**: [SQL Server](https://www.microsoft.com/sql-server) ou [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/) para armazenamento de dados.
+- **Geolocalização**: Integração com APIs como [Bing Maps API](https://www.microsoft.com/en-us/maps) ou [Google Maps API](https://developers.google.com/maps).
+- **Pagamentos**: Integração com [Stripe](https://stripe.com), [PayPal](https://www.paypal.com) ou [PagSeguro](https://pagseguro.uol.com.br), utilizando [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) para processar pagamentos e emitir boletos.
+- **Monitoramento em tempo real**: [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) para comunicação em tempo real entre o servidor e os dispositivos, permitindo o acompanhamento de trajetos em tempo real.
+- **Hospedagem**: [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) para hospedar o backend e os serviços de API.
 
-- **Website**: Desenvolvido com **React.js** para uma interface rápida, interativa e responsiva.
-- **Aplicativo Mobile (Android e iOS)**: Desenvolvido com **React Native**, permitindo a criação de aplicativos nativos para Android e, posteriormente, iOS a partir de uma base de código única.
-
-### Backend
-
-- **Node.js** com **Express** para a criação da API do servidor, garantindo escalabilidade e eficiência.
-- **MongoDB** ou **PostgreSQL** para gerenciamento de dados, oferecendo flexibilidade e performance, dependendo da necessidade do projeto.
-
-### Geolocalização
-
-- **Google Maps API** ou **OpenStreetMap** para o monitoramento de localização em tempo real e cálculo de rotas.
-
-### Pagamentos
-
-- Integração com plataformas de pagamento como **Stripe**, **PayPal**, ou **PagSeguro** para emissão de boletos e gestão de pagamentos.
-
-### Serviços de Hospedagem
-
-- **AWS** ou **Google Cloud** para a infraestrutura e hospedagem de backend, com suporte a escalabilidade e integração contínua.
-- **Firebase** para notificações push e autenticação de usuários (login).
-
-### Testes
-
-- **Jest** para testes unitários no frontend e backend.
-- **Detox** ou **Appium** para testes end-to-end dos aplicativos móveis.
