@@ -2,20 +2,55 @@
 
 **Hermap** é um aplicativo de transporte inteligente, projetado para facilitar o gerenciamento de rotas e passageiros para empresas, universidades e outros serviços de transporte compartilhado. Inspirado no deus grego Hermes, conhecido como o protetor dos viajantes, Hermap oferece uma solução moderna e eficiente para otimizar viagens, monitorar trajetos em tempo real e gerenciar finanças de maneira integrada.
 
-## Funcionalidades Principais
+# Hermap: Funcionalidades e Estrutura do App
 
-- **Localização em tempo real**: Acompanhe a localização exata da van e saiba a previsão de chegada.
-- **Controle de itinerários**: Gerenciamento detalhado de rotas, horários e locais de embarque e desembarque.
-- **Confirmação de presença**: Passageiros podem confirmar ou desmarcar sua viagem de maneira rápida e fácil.
-- **Gerenciamento de passageiros**: Controle total de passageiros por viagem, com cadastro e histórico de viagens.
-- **Rotas automáticas**: Criação automática de rotas baseadas no local de embarque e desembarque de cada passageiro.
-- **Gestão financeira**: Emissão de boletos, controle de pagamentos e posição financeira de cada passageiro.
-- **Divulgação de serviços**: Facilita o contato entre motoristas/empresas e potenciais clientes, promovendo seus serviços.
+## 1. Usuário Comum (Estudante ou Não)
+O usuário comum utiliza o app para encontrar e reservar serviços de transporte.
 
-## Funcionalidades Futuras
+### Funcionalidades:
+- **Busca por Serviços de Transporte**: O usuário pode procurar serviços de transporte fixo (trabalho, universidade) e viagens em grupo.
+- **Consulta de Itinerários Disponíveis**: Visualizar itinerários cadastrados pelos motoristas, com detalhes de horários e pontos de embarque.
+- **Reserva de Vaga**: Reservar vaga em grupos de transporte conforme disponibilidade definida pelo motorista.
+- **Pagamento e Histórico**: Efetuar pagamento via app e acompanhar o histórico de viagens e pagamentos.
+- **Notificações e Atualizações**: Receber atualizações em tempo real sobre o status da van e horário previsto de chegada.
 
-- **Avaliação de motoristas e empresas**: Sistema de feedback dos usuários para garantir qualidade no serviço.
-- **Serviços diferenciados**: Cadastro de serviços personalizados conforme as necessidades dos passageiros e empresas.
+## 2. Motorista
+O motorista utiliza o app para cadastrar e gerenciar seus serviços de transporte e itinerários.
+
+### Funcionalidades:
+- **Cadastro de Itinerários e Serviços**: Criar novos itinerários, definir número de passageiros, horários e pontos de embarque/desembarque.
+- **Gerenciamento de Passageiros**: Organizar e gerenciar passageiros, incluindo confirmação de presença e histórico de viagens.
+- **Organização de Rotas**: Otimizar a rota com base nos locais de embarque/desembarque dos passageiros.
+- **Controle de Pontos de Embarque/Desembarque**: Gravar o horário em que o motorista passa por cada ponto de embarque.
+- **Gestão de Pagamentos**: Acompanhar pagamentos recebidos, emitir boletos e verificar status financeiro dos passageiros.
+- **Serviços Diversificados**: Cadastro de viagens em grupo e serviços de entrega.
+
+## 3. Empresa
+As empresas usam o app para criar oportunidades de transporte para seus funcionários.
+
+### Funcionalidades:
+- **Criação de Oportunidades de Transporte**: Divulgar necessidade de transporte com horários e locais de embarque/desembarque próximos aos funcionários.
+- **Busca por Motoristas**: Encontrar motoristas que ofereçam serviços compatíveis com as necessidades da empresa.
+- **Gerenciamento de Transporte de Funcionários**: Acompanhar em tempo real o status do transporte e visualizar o histórico de viagens.
+- **Integração com Motoristas**: Criar parcerias com motoristas para serviços recorrentes, como transporte diário de funcionários.
+
+## 4. Gestão e Organização de Serviços (Motorista)
+O app facilita a organização e gerenciamento dos serviços de transporte para os motoristas.
+
+### Funcionalidades:
+- **Organização de Horários**: Definir horários de partida e chegada com flexibilidade para ajustar às necessidades dos passageiros.
+- **Controle de Pontos de Embarque/Desembarque**: Definir pontos de embarque otimizados com base na localização dos passageiros.
+- **Histórico de Viagens**: Registrar o histórico completo de viagens com horários, pontos de embarque e desembarque.
+- **Pagamentos e Controle Financeiro**: Gerenciar recebimentos, emitir boletos e processar pagamentos via integração com plataformas (Stripe, PagSeguro, etc.).
+
+## 5. Resumo da Solução
+O **Hermap** é uma plataforma que conecta motoristas, usuários e empresas de forma eficiente para facilitar:
+- A busca por serviços de transporte;
+- O gerenciamento de serviços por motoristas, com otimização de rotas e gestão de passageiros;
+- A criação de oportunidades de transporte por empresas, com monitoramento de status e histórico de viagens.
+
+As funcionalidades cobrem desde transporte fixo (diário) até serviços de viagem em grupo e entregas, tornando o **Hermap** uma solução completa para mobilidade.
+
 
 ## Tecnologias Utilizadas
 
