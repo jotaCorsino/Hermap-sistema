@@ -1,6 +1,6 @@
 # Hermap
 
-**Hermap** é um aplicativo de transporte inteligente, projetado para facilitar o gerenciamento de rotas e passageiros para empresas, universidades e outros serviços de transporte compartilhado. Inspirado no deus grego Hermes, conhecido como o protetor dos viajantes, Hermap oferece uma solução moderna e eficiente para otimizar viagens, monitorar trajetos em tempo real e gerenciar finanças de maneira integrada.
+**Hermap** é um aplicativo de transporte coletivo particular, projetado para facilitar o gerenciamento de rotas e passageiros para empresas, universidades e outros serviços de transporte compartilhado. Inspirado no deus grego Hermes, conhecido como o protetor dos viajantes, Hermap oferece uma solução moderna e eficiente para otimizar viagens, monitorar trajetos em tempo real e gerenciar finanças de maneira integrada.
 
 # Hermap: Funcionalidades e Estrutura do App
 
