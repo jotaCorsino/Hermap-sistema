@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Hermap.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\Hermap.Domain\\Hermap.Domain.csproj",
       "projectName": "Hermap.Domain",
-      "projectPath": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Hermap.Domain.csproj",
+      "projectPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\Hermap.Domain\\Hermap.Domain.csproj",
       "packagesPath": "C:\\Users\\joao.design\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\obj\\",
+      "outputPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\Hermap.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

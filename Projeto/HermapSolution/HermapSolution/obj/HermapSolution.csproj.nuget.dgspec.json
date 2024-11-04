@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\HermapSolution\\HermapSolution.csproj": {}
+    "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\HermapSolution\\HermapSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\HermapSolution\\HermapSolution.csproj": {
+    "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\HermapSolution\\HermapSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\HermapSolution\\HermapSolution.csproj",
+        "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\HermapSolution\\HermapSolution.csproj",
         "projectName": "HermapSolution",
-        "projectPath": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\HermapSolution\\HermapSolution.csproj",
+        "projectPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\HermapSolution\\HermapSolution.csproj",
         "packagesPath": "C:\\Users\\joao.design\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\HermapSolution\\obj\\",
+        "outputPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\Hermap\\Hermap-sistema\\Projeto\\HermapSolution\\HermapSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

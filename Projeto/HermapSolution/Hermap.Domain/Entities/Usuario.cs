@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Hermap.Domain.Entities
 {
-    internal class Usuario
+    public abstract class Usuario
     {
         public string Nome { get; set; }
         public string Email { get; set; }

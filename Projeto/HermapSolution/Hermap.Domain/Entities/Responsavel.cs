@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hermap.Domain.Entities
 {
-    internal class Responsavel
+    internal class Responsavel : Funcionario
     {
     }
 }

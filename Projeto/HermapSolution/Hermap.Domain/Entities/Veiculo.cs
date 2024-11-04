@@ -8,5 +8,9 @@ namespace Hermap.Domain.Entities
 {
     internal class Veiculo
     {
+        public string Placa { get; set; }   
+        public string Modelo { get; set; }
+        public string Cor { get; set; }
+        public int CapacidadeDePassageiros { get; set; }
     }
 }

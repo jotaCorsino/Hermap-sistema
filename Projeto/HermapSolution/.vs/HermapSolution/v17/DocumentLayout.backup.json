@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\geolocalizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\geolocalizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\responsavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\responsavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|c:\\users\\joao.design\\desktop\\0 teste\\hermapsolution\\hermap.domain\\entities\\passageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B22A7D-9B85-4295-AE7A-501A6AEE696B}|Hermap.Domain\\Hermap.Domain.csproj|solutionrelative:hermap.domain\\entities\\passageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:52:54.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Geolocalizacao.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Geolocalizacao.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Geolocalizacao.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Geolocalizacao.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Geolocalizacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:52:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Financeiro.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Financeiro.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Financeiro.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Financeiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:52:25.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oportunidade.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Oportunidade.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Oportunidade.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Oportunidade.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Oportunidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:52:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Rota.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Rota.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Rota.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Rota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:51:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Veiculo.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:51:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motorista.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Motorista.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Motorista.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Motorista.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Motorista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:51:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Funcionario.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:51:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Responsavel.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Responsavel.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Responsavel.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Responsavel.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Responsavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:50:53.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Empresa.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Empresa.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Empresa.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:50:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Passageiro.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Passageiro.cs",
+              "RelativeDocumentMoniker": "Hermap.Domain\\Entities\\Passageiro.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\0 Teste\\HermapSolution\\Hermap.Domain\\Entities\\Passageiro.cs",
+              "RelativeToolTip": "Hermap.Domain\\Entities\\Passageiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:49:55.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
