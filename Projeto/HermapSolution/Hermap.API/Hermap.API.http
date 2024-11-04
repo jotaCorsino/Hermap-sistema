@@ -1,6 +1,0 @@
-@Hermap.API_HostAddress = http://localhost:5116
-
-GET {{Hermap.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
