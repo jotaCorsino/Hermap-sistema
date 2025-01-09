@@ -41,7 +41,7 @@ O Hermap é uma solução completa para mobilidade urbana compartilhada, promove
 
 
 
-## Tecnologias Utilizadas
+## Tecnologias a serem estudadas
 
 - **Frontend Web**: [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) para acesso via navegador em computadores.
 - **Frontend Mobile**: [Xamarin](https://dotnet.microsoft.com/apps/xamarin) / [.NET MAUI](https://dotnet.microsoft.com/apps/maui) para o desenvolvimento dos aplicativos Android e iOS.
